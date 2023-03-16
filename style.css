@@ -223,7 +223,13 @@ p {
         overflow: auto;
     }
     .text-logo {
+        
         top: 100%;  
+    }
+    nav {
+        flex-direction: column;
+        justify-content: center;
+        align-items: stretch;
     }
 }
 
